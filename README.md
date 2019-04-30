@@ -1,6 +1,18 @@
 # SEAM
+
 ## *Sustainable Electro-Acoustic Music*
 
+### Massive cloning
+
+```
+bash seamclone.sh
+```
+
+### Massive pulling
+
+```
+bash seampull.sh
+```
 
 > **seam** | siːm |    
 noun    

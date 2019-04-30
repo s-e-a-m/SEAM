@@ -3,6 +3,8 @@
 # use it by terminal typing:
 # bash seampull.sh
 
+say Will do, sir
+
 cd ..
 
 cd References
