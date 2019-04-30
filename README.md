@@ -1,5 +1,5 @@
 # SEAM
-## *Sustainable Electro-Acoustic Music - Base*
+## *Sustainable Electro-Acoustic Music*
 
 
 > **seam** | siːm |    
