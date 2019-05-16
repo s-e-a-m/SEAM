@@ -1,3 +1,6 @@
 [submodule "db/Nono-Luigi/1987-Risonanze-Erranti/fc1987nlre"]
 	path = db/Nono-Luigi/1987-Risonanze-Erranti/fc1987nlre
 	url = https://github.com/s-e-a-m/fc1987nlre.git
+[submodule "db/Lucier-Alvin/1969-Im-Sitting/fc1969alis"]
+	path = db/Lucier-Alvin/1969-Im-Sitting/fc1969alis
+	url = https://github.com/s-e-a-m/fc1969alis.git
