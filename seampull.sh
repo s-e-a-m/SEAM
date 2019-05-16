@@ -22,7 +22,10 @@ git pull -v
 cd ..
 
 cd fc1987nlre
-git submodule update --init
+git pull -v
+cd ..
+
+cd fc1969alis
 git pull -v
 cd ..
 
