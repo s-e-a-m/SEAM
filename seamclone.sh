@@ -7,34 +7,16 @@ say Will do, sir
 
 cd ..
 
-git clone https://github.com/s-e-a-m/fc1987nlre.git
-cd fc1987nlre
-git submodule update --init
-cd ..
-echo ""
+git clone --recurse-submodules -v https://github.com/s-e-a-m/faust-code.git
 
-git clone https://github.com/s-e-a-m/faust-code.git
-cd faust-code
-git submodule update --init
-cd ..
-echo ""
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1969alis.git
 
-git clone https://github.com/s-e-a-m/maxmsp.git
-cd maxmsp
-git submodule update --init
-cd ..
-echo ""
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1987nlre.git
 
-git clone https://github.com/s-e-a-m/References.git
-cd References
-git submodule update --init
-cd ..
-echo ""
+git clone --recurse-submodules -v https://github.com/s-e-a-m/maxmsp.git
 
-git clone https://github.com/s-e-a-m/s-e-a-m.github.io.git
-cd s-e-a-m.github.io
-git submodule update --init
-cd ..
-echo ""
+git clone --recurse-submodules -v https://github.com/s-e-a-m/References.git
+
+git clone --recurse-submodules -v https://github.com/s-e-a-m/s-e-a-m.github.io.git
 
 say Congratulations! You have created a new element
