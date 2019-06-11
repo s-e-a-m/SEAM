@@ -27,6 +27,10 @@ cd fc1969alis
 git pull -v
 cd ..
 
+cd fc1991lmml
+git pull -v
+cd ..
+
 cd s-e-a-m.github.io
 git pull --recurse-submodules -v
 cd ..

@@ -4,3 +4,6 @@
 [submodule "db/Lucier-Alvin/1969-Im-Sitting/fc1969alis"]
 	path = db/Lucier-Alvin/1969-Im-Sitting/fc1969alis
 	url = https://github.com/s-e-a-m/fc1969alis.git
+[submodule "db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml"]
+	path = db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml
+	url = https://github.com/s-e-a-m/fc1991lmml.git

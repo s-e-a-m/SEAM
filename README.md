@@ -8,11 +8,13 @@
 bash seamclone.sh
 ```
 
-### Massive pulling
+### Massive update
 
 ```
 bash seampull.sh
 ```
+
+### SEAM meaning
 
 > **seam** | siːm |    
 noun    
