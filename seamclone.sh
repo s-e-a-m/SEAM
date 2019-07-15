@@ -13,6 +13,8 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1969alis.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1987nlre.git
 
+git clone --recurse-submodules -v https://github.com/s-e-a-m/cs1954sks2.git
+
 git clone --recurse-submodules -v https://github.com/s-e-a-m/maxmsp.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/References.git

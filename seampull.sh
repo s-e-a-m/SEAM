@@ -31,6 +31,10 @@ cd fc1991lmml
 git pull -v
 cd ..
 
+cd cs1954sks2
+git pull -v
+cd ..
+
 cd s-e-a-m.github.io
 git pull --recurse-submodules -v
 cd ..
