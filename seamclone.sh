@@ -9,7 +9,7 @@ cd ..
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/faust-code.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1969alis.git
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1969lais.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1987nlre.git
 
