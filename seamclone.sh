@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # use it by terminal typing:
-# bash seampull.sh
+# bash seamclone.sh
 
 say Will do, sir
 
@@ -12,6 +12,8 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/faust-code.git
 git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1969alis.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1987nlre.git
+
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc1991lmml.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/maxmsp.git
 
