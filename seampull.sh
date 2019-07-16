@@ -3,31 +3,7 @@
 # use it by terminal typing:
 # bash seampull.sh
 
-say Will do, sir
-
-cd ..
-
-cd References
-git pull -v
-cd ..
-
-cd SEAM
-git pull --recurse-submodules -v
-cd ..
-
-cd faust-code
-git pull --recurse-submodules -v
-cd ..
-
-cd fc1987nlre
-git pull -v
-cd ..
-
-cd fc1969lais
-git pull -v
-cd ..
-
-cd fc1991lmml
+git submodule update --remote
 git pull -v
 cd ..
 
@@ -35,12 +11,35 @@ cd cs1954sks2
 git pull -v
 cd ..
 
-cd s-e-a-m.github.io
-git pull --recurse-submodules -v
+cd faust-code
+git submodule update --remote
+git pull -v
+cd ..
+
+cd faust-libraries
+git pull -v
+cd ..
+
+cd fc1969lais
+git pull -v
+cd ..
+
+cd fc1987nlre
+git pull -v
+cd ..
+
+cd fc1991lmml
+git pull -v
 cd ..
 
 cd maxmsp
-git pull --recurse-submodules -v
+git pull -v
 cd ..
 
-say ciao belli
+cd References
+git pull -v
+cd ..
+
+cd s-e-a-m.github.io
+git pull -v
+cd ..
