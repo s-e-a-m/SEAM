@@ -10,3 +10,6 @@
 [submodule "lib/faust-libraries"]
 	path = lib/faust-libraries
 	url = https://github.com/s-e-a-m/faust-libraries.git
+[submodule "References"]
+	path = References
+	url = https://github.com/s-e-a-m/References.git
