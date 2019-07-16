@@ -7,3 +7,6 @@
 [submodule "db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml"]
 	path = db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml
 	url = https://github.com/s-e-a-m/fc1991lmml.git
+[submodule "lib/faust-libraries"]
+	path = lib/faust-libraries
+	url = https://github.com/s-e-a-m/faust-libraries.git
