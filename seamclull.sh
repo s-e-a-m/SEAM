@@ -23,8 +23,9 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/References.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/s-e-a-m.github.io.git
 
-#pull
+git clone --recurse-submodules -v https://github.com/s-e-a-m/max1969lais.github.io.git
 
+#pull
 
 cd SEAM
 git submodule update --remote
@@ -45,6 +46,10 @@ git pull -v
 cd ..
 
 cd fc1969lais
+git pull -v
+cd ..
+
+cd max1969lais
 git pull -v
 cd ..
 

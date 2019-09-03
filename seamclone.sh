@@ -22,3 +22,5 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/maxmsp.git
 git clone --recurse-submodules -v https://github.com/s-e-a-m/References.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/s-e-a-m.github.io.git
+
+git clone --recurse-submodules -v https://github.com/s-e-a-m/max1969lais.github.io.git
