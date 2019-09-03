@@ -29,3 +29,8 @@ bash seamclone.sh
 bash seampull.sh
 ```
 
+### Massive cloning and update
+
+```
+bash seampull.sh
+```
