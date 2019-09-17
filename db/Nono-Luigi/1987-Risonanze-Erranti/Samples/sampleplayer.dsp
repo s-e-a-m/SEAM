@@ -4,7 +4,7 @@ gate = button("[1] Hold me down to play sound");
 
 inc = 1;
 
-play(i) = i, _~(*(gate):+(inc*gate)); // play i'th soundfile
+play(i) = i, _ ~ (*(gate) : + (inc * gate)); // play i'th soundfile
 
 sampsel = nentry("[0] Sample Selector
                     [style:menu{
