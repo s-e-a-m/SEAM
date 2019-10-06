@@ -1,6 +1,6 @@
 # SEAM
 
-*Sustainable Electro-Acoustic Music* project inspired by [Alvise Vidolin and Nicola Bernardini article](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music)
+*Sustained Electro-Acoustic Music* project inspired by [Alvise Vidolin and Nicola Bernardini article](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music)
 
 ### SEAM meaning
 
