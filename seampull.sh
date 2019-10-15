@@ -47,3 +47,7 @@ cd ..
 cd s-e-a-m.github.io
 git pull -v
 cd ..
+
+cd seam-lac2020
+git pull -v
+cd..
