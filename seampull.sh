@@ -50,4 +50,4 @@ cd ..
 
 cd seam-lac2020
 git pull -v
-cd..
+cd ..
