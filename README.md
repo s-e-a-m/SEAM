@@ -17,8 +17,19 @@ noun
 > 1. join with a seam: it can be used for seaming garments.
 > 2. (usually as adjective seamed) make a long, narrow indentation in: men in middle age have seamed faces.
 
+### Massive cloning
+
+```
+bash seamclone.sh
+```
+### Massive update
+
+```
+bash seampull.sh
+```
+
 ### Massive cloning and update
 
 ```
-bash seamclull.sh
+bash seamclull.sh (to be fixed)
 ```
