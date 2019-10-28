@@ -25,6 +25,8 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/s-e-a-m.github.io.g
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/max1969lais.git
 
+git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre.git
+
 #pull
 
 cd SEAM
@@ -71,5 +73,9 @@ git pull -v
 cd ..
 
 cd s-e-a-m.github.io
+git pull -v
+cd ..
+
+cd snd1987nlre
 git pull -v
 cd ..
