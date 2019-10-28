@@ -28,20 +28,21 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/max1969lais.git
 #pull
 
 cd SEAM
-git submodule update --remote
-git pull -v
-cd ..
-
-cd cs1954sks2
-git pull -v
+git submodule update --init --recursive
+git pull -v --recurse-submodules
 cd ..
 
 cd faust-code
-git submodule update --remote
-git pull -v
+git submodule update --init --recursive
+git pull -v --recurse-submodules
 cd ..
 
 cd faust-libraries
+git submodule update --init --recursive
+git pull -v --recurse-submodules
+cd ..
+
+cd cs1954sks2
 git pull -v
 cd ..
 
