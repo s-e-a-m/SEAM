@@ -1,11 +1,11 @@
-[submodule "db/Nono-Luigi/1987-Risonanze-Erranti/fc1987nlre"]
-	path = db/Nono-Luigi/1987-Risonanze-Erranti/fc1987nlre
+[submodule "1987-Nono-Luigi-Risonanze-Erranti/fc1987nlre"]
+	path = 1987-Nono-Luigi-Risonanze-Erranti/fc1987nlre
 	url = https://github.com/s-e-a-m/fc1987nlre.git
-[submodule "db/Lucier-Alvin/1969-Im-Sitting/fc1969alis"]
-	path = db/Lucier-Alvin/1969-Im-Sitting/fc1969alis
-	url = https://github.com/s-e-a-m/fc1969alis.git
-[submodule "db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml"]
-	path = db/Lupone-Michelangelo/1991-Mobile-Locale/fc1991lmml
+[submodule "1969-Lucier-Alvin-Im-Sitting/fc1969lais"]
+	path = 1969-Lucier-Alvin-Im-Sitting/fc1969lais
+	url = https://github.com/s-e-a-m/fc1969lais.git
+[submodule "1991-Lupone-Michelangelo-Mobile-Locale/fc1991lmml"]
+	path = 1991-Lupone-Michelangelo-Mobile-Locale/fc1991lmml
 	url = https://github.com/s-e-a-m/fc1991lmml.git
 [submodule "lib/faust-libraries"]
 	path = lib/faust-libraries
