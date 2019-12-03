@@ -10,3 +10,6 @@
 [submodule "fc1969lais"]
 	path = fc1969lais
 	url = https://github.com/s-e-a-m/fc1969lais.git
+[submodule "faust-libraries"]
+	path = faust-libraries
+	url = https://github.com/s-e-a-m/faust-libraries.git
