@@ -1,3 +1,12 @@
 [submodule "References"]
 	path = References
 	url = https://github.com/s-e-a-m/References.git
+[submodule "fc1987nlre"]
+	path = fc1987nlre
+	url = https://github.com/s-e-a-m/fc1987nlre.git
+[submodule "fc1991lmml"]
+	path = fc1991lmml
+	url = https://github.com/s-e-a-m/fc1991lmml.git
+[submodule "fc1969lais"]
+	path = fc1969lais
+	url = https://github.com/s-e-a-m/fc1969lais.git
