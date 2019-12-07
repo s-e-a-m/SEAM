@@ -1,6 +1,8 @@
 # SEAM
 
-*Sustained Electro-Acoustic Music* project inspired by [Alvise Vidolin and Nicola Bernardini article](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music)
+## SUSTAINED ELECTROACUSTIC MUSIC
+
+_**SEAM**_ - _Sustained Electroacoustic Music_ is a project inspired by [Alvise Vidolin and Nicola Bernardini's article on electroacoustic music sustainability](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
 
 ### SEAM meaning
 
@@ -16,20 +18,3 @@ noun
 > verb
 > 1. join with a seam: it can be used for seaming garments.
 > 2. (usually as adjective seamed) make a long, narrow indentation in: men in middle age have seamed faces.
-
-### Massive cloning
-
-```
-bash seamclone.sh
-```
-### Massive update
-
-```
-bash seampull.sh
-```
-
-### Massive cloning and update
-
-```
-bash seamclull.sh (to be fixed)
-```
