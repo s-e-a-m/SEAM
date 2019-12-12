@@ -24,15 +24,15 @@ cd fc1969lais
 git pull -v
 cd ..
 
-cd max1969lais
-git pull -v
-cd ..
-
 cd fc1987nlre
 git pull -v
 cd ..
 
 cd fc1991lmml
+git pull -v
+cd ..
+
+cd max1969lais
 git pull -v
 cd ..
 
@@ -49,5 +49,9 @@ git pull -v
 cd ..
 
 cd seam-lac2020
+git pull -v
+cd ..
+
+cd snd1987nlre
 git pull -v
 cd ..
