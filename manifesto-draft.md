@@ -1,14 +1,14 @@
-Sustained Electro-acoustic Music is a project inspired by Alvise Vidolin and Nicola Bernardini's article on live electro-acoustic music sustainability. They point at multiple faces of the sustainability problem such as: technological, notational or general conception issues. In the article they focus only on live electro-acoustic music but the concept is applicable to any kind of documented music that uses electro-acoustic environments and this will be the purpose of the present text.
+Sustained Electro-acoustic Music is a project inspired by Alvise Vidolin and Nicola Bernardini's article on live electro-acoustic music sustainability. In their article they point at multiple faces of the sustainability problem such as: technological, notational or general conception issues. Even if the article aforementioned focuses only on live electro-acoustic music, the concept of *sustainability* is applicable to any kind of documented music that uses electro-acoustic environments; this will be the purpose of the presented text.
 
-The ambition of this project is to grow the interpretation and the electro-acoustical musical practice with the consciousness of the electronics and informatics problems that had made difficult to approach to this music and that prevented the growth of an interpretative thinking. It is possible, with a community structure, to determine, build and stratify interpretation of musical core, the repertoire, concealing the technological issues. They are instruments, not the music itself.
+The ambition of this project is to grow the interpretation and the electro-acoustical musical practice with the consciousness of the electronic and informatic problems that had made difficult and arduous to approach to this music which prevented the growth of an interpretative thinking. It is possible, with a community structure, to determine, build and stratify interpretation of musical core, the repertoire, concealing the technological issues. They are instruments, not the music itself.
 
-When we refer to a virtuoso musician, often, we point at a violinist or a piano player; someone who intensely practice on his instruments. This is the point: Does the violinist builds its own violin every time he approaches a new composition? Does the pianist do it? The electro-acoustic musician does it.
+When we refer to a virtuoso musician, we often point at a violinist or at a piano player; someone who intensely practice on his instrument. This is the the central point: Does the violinist builds its own violin every time he approaches a new composition? Does the pianist does it? The electro-acoustic musician does it every time.
 
-The electro-acoustic music culture was born in a daily changing context. The sustainability of what the electro-acoustic musicians and composers were doing during the years wasn't an interesting and useful point during the realisation of the compositions. Today the situation remaines similar to decades ago. Sustainability is an intricate and complex concept and *music sustainability* sounds like an *abstract problem* applied to an *abstract thing* only for a small number of people; like an *abstract community* not related to the mass. Again, we know that mass-media, mass-culture, mass-things, are no place for the *sustained people*.
+The electro-acoustic music culture was born in a daily changing context. The sustainability of what the electro-acoustic musicians and composers were doing during the years wasn't an interesting and useful point during the realisation of the compositions. Today the situation remaines similar to decades ago. Sustainability is an intricate and complex concept and *music sustainability* sounds like an *abstract problem* applied to an *abstract thing* only for a small number of people like an *abstract community* not related to the mass. Again, we acknowledge that mass-media, mass-culture, mass-society-things, are no place for the *sustained people*.
 
-If actual music is afflicted or not by the contemporary and electro-acoustic music issue, it is an ordinary question, but the evidence that musical thinking changed thanks to the electro-acoustic thinking is an innegable fact. Music was changed inexorably after the introduction of electronics and informatics in music composition, playing and production.
+If actual music is afflicted or not by the contemporary and electro-acoustic music issue, it is an ordinary question, but the evidence that musical thinking changed thanks to the electro-acoustic thought is an innegable fact. Music was changed inexorably after the introduction of electronics and informatics in music composition, as well as the the way how it has transformed the approch to playing and production of music.
 
-Here are the points. What will it happen when all the people who manipulate those electronic and production problems during a concert will disappear? What it will become the electro-acoustic music repertoire if it not the solely music played in the concert hall? Why we concentrate too many resources and time on technical problems and not on musical interpretations and playing practices?
+Here are the focal points. What will it happen when all the people who manipulate those electronic and production problems during a concert will disappear? What will become the electro-acoustic music repertoire if not the solely music played in the concert hall? Why we do concentrate too many resources and time on technical problems and not on musical interpretations and playing practices?
 
 Looking at the Post-Graduate Doctoral offers to an electro-acoustic musician all over the world, there are many *interactive-all-you-can-think-about* positions but nothing with the words *electro-acoustic repertoire*. There are a lot of *Machines (that are) Learning* something, somewhere. All over the world, the music industry conceived the purpose of doing music. With or without problems. During that well studied *interaction learning* and, during this art of entertainment, where the industry is god, and god is a DJ; meanwhile there is also a repertoire of music that we must consider the core of the actual musical thinking that will disappear in a few years. Not the written papers, neither the recordings of that repertoire. We have *clouds* for that, and *Machine Learning* something of that, maybe. But it will disappear the practice, the interpretation, and musical thinking itself and there will be no place for that. Because if there are clouds, they are grey and full of rain.
 
@@ -22,11 +22,11 @@ What can we do about a lot of music made by composers who have framed their musi
 
 ====
 
-There are concepts we must consider dogmatic to re-build and sustain an
+There are concepts that we must consider dogmatic to build, re-build and sustain an
 electro-acoustic repertoire: Open, D.R.Y., Community. SEAM is an open, dry,
 community.
 
-The SEAM manifesto is:
-  1. Be Open
-  2. Don't Repeat Yourself
-  3. Think and act in the community.
+The SEAM Manifesto states:
+  1. Be Open.
+  2. Don't Repeat Yourself.
+  3. Think and Act in the Community for the Community.
