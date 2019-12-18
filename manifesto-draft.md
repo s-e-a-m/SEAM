@@ -12,9 +12,9 @@ Here are the focal points. What will happen when all the people who are part of 
 
 An example. We have three interpretations of Beethoven's Complete Symphonies, by the famous conductor Herbert von Karajan. Each of those boxsets is a separate thing, a collection of objects. Not music itself. We have three sets of reproduction of the same musical things through the same mind. It is a huge resource of thinking, not a huge resource of music itself. Every man who has listened to Beethoven in a concert hall knows perfectly that his music can't fit in a box that can stay in a hand. But if the boxset is not Beethoven's music itself, it is sure an object of thinking. There is a point, sure, this is not the purpose it was built, but it doesn't matter. The point is that we have stratified musical thinking and listening attitude on Beethoven's music through interpretations of his music. We have not rewritten his music each time and we have not built his instruments each time. Is it a technological fact? A musical one? Both of them.
 
-We have to study Vidolin's gestures to understand Nono, to have a clear sight on our music through an era. [contemporaneo] Vidolin is for Nono what Karajan was for Beethoven. We need his work to know what was happening, what we have to do, what it is necessary and what doesn't matter. And that is we have to do, just one time, forever; refine it, maintain it, and again realise it forever.
-
 Luigi Nono's repertoire is not on a triple boxset of no one. It is on paper, in the best of the case. We have some recordings, yes we have them. What can we study and interpret, if half of the ensemble in a score was *Live Electronics Instruments* dated the '80s and it was not really described and not really *sustained* through the years? Who has memories of those instruments?
+
+We have to study Vidolin's gestures to understand Nono, to have a clear sight on our music through an era. [contemporaneo] Vidolin is for Nono what Karajan was for Beethoven. We need his work to know what was happening, what we have to do, what it is necessary and what doesn't matter. And that is we have to do, just one time, forever; refine it, maintain it, and again realise it forever.
 
 What can we do about a lot of music made by composers who have framed their music in events without sustain at all their electronic instruments through decades?
 
