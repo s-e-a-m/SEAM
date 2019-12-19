@@ -16,8 +16,6 @@ Luigi Nono's repertoire is not on a triple boxset of no one. It is on paper, in 
 
 We have to study Vidolin's gestures to understand Nono, to have a clear sight on our music through an era. Vidolin is for Nono what Karajan was for Beethoven: time, consciousness and thinking. We need his work to know what was happening, what we have to do, what it is necessary and what doesn't matter. And that is we have to do, just one time, forever; refine it, maintain it, and again realise it forever.
 
-[contemporaneo]
-
 What can we do about a lot of music made by composers who have framed their music in events without sustain at all their electronic instruments through decades?
 
 Here are the focal points. What will happen when all the people who are part of the history of a work and continuously manipulates its electronics and knows all the production problems during a concert will disappear? What will become the electro-acoustic music repertoire if not the one played in the concert hall? Why we do concentrate too many resources and time on technical problems and not on musical interpretations and playing practices of repertoire?
