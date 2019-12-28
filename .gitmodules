@@ -13,3 +13,6 @@
 [submodule "faust-libraries"]
 	path = faust-libraries
 	url = https://github.com/s-e-a-m/faust-libraries.git
+[submodule "faust-code"]
+	path = faust-code
+	url = https://github.com/s-e-a-m/faust-code.git
