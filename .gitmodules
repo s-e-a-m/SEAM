@@ -16,3 +16,9 @@
 [submodule "faust-code"]
 	path = faust-code
 	url = https://github.com/s-e-a-m/faust-code.git
+[submodule "Documentation/seam-lac2020"]
+	path = Documentation/seam-lac2020
+	url = https://github.com/s-e-a-m/seam-lac2020.git
+[submodule "Documentation/seam-ifc2020"]
+	path = Documentation/seam-ifc2020
+	url = https://github.com/s-e-a-m/seam-ifc2020.git
