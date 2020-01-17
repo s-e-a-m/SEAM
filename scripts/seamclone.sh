@@ -29,4 +29,6 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-lac2020
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-ifc2020
 
+git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-icmc2020
+
 git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre
