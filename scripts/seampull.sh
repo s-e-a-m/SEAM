@@ -54,10 +54,6 @@ cd seam-ifc2020
 git pull -v
 cd ..
 
-cd seam-icmc2020
-git pull -v
-cd ..
-
 cd seam-lac2020
 git pull -v
 cd ..
