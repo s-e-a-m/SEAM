@@ -50,7 +50,7 @@ cd s-e-a-m.github.io
 git pull -v
 cd ..
 
-cd seam-ifc2020
+cd seam-smc2020
 git pull -v
 cd ..
 
