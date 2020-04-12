@@ -2,7 +2,9 @@
 
 ## SUSTAINED ELECTROACUSTIC MUSIC
 
-_**SEAM**_ - _Sustained Electroacoustic Music_ is a project inspired by [Alvise Vidolin and Nicola Bernardini's article on electroacoustic music sustainability](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
+_**SEAM**_ - _Sustained Electroacoustic Music_ is a project inspired by
+[Alvise Vidolin and Nicola Bernardini's article](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
+on electroacoustic music sustainability
 
 ### SEAM meaning
 
@@ -18,3 +20,13 @@ noun
 > verb
 > 1. join with a seam: it can be used for seaming garments.
 > 2. (usually as adjective seamed) make a long, narrow indentation in: men in middle age have seamed faces.
+
+### SEAM Submodules
+
+This repository is the base aggregator for multiple projects that have
+independent lives and strategies. If you are a lazy person, to manually update
+them, type:
+
+```bash
+git submodule foreach git pull origin master
+```
