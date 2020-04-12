@@ -3,7 +3,7 @@
 # use it by terminal typing:
 # bash seampull.sh
 
-cd ..
+cd ../..
 
 git submodule update --remote
 git pull -v
