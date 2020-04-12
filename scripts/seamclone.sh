@@ -3,7 +3,7 @@
 # use it by terminal typing:
 # bash seamclone.sh
 
-cd ..
+cd ../..
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/cs1954sks2.git
 
