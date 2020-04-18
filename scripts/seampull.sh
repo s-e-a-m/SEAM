@@ -26,6 +26,10 @@ cd fc1969lais
 git pull -v
 cd ..
 
+cd fc1987nlpppd
+git pull -v
+cd ..
+
 cd fc1987nlre
 git pull -v
 cd ..
