@@ -2,8 +2,8 @@
 
 * [SEAM](README.md)
 * [MANIFESTO](manifesto.md)
-* [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
-* [CONTRIBUTING](CONTRIBUTING)
+* [CODE OF CONDUCT](code_of_conduct.md)
+* [CONTRIBUTING](contributing.md)
 
 ## faust-libraries
 
@@ -16,3 +16,4 @@
 * [Risonanze Erranti](repertoire/risonanze-erranti.md)
 * [Mobile Locale](repertoire/mobile-locale.md)
 * [Post-Prae-Ludium per Donau](repertoire/post-prae-ludium-per-donau.md)
+
