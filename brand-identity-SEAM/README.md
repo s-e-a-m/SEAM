@@ -1,4 +1,4 @@
-#Brand identity SEAM
+# Brand identity SEAM
 
 - logotype
 - logomark
