@@ -1,4 +1,4 @@
-# Graphic idetity
+# Graphic identity
 
 - logotype
 - logomark
