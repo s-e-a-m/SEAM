@@ -14,6 +14,8 @@ It is maintained by a small team.
 
 #### Giovanni Michelangelo D'Urso
 
+#### [Gabriela Krassimirova Velitchkova](https://github.com/Velitch)
+
 #### You are welcome to contribute to the project.
 
 [JOIN US ON SLACK!](https://join.slack.com/t/seam-world/shared_invite/zt-ekrwtpo3-mXz~GczNSLTIatlJyd4GGg)
