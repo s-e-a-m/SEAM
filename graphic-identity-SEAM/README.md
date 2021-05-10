@@ -3,4 +3,4 @@
 - logotype
 - logomark
 - colori
-- font
+- fonts
