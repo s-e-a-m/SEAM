@@ -2,7 +2,10 @@
 
 - logotype
 
-- logomark
+  - primario
+  - secondario
+
+- watermark
 
 - colors:
 
