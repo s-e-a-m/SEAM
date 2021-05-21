@@ -1,9 +1,8 @@
 # 2020-04-01
 # Lezione 1
 
-durata totale: 022524
-
-## video_1
+- durata pre edit: 022524
+- durata post edit:
 
 - **introduzione al corso**
 
