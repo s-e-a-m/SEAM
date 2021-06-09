@@ -65,3 +65,7 @@ cd ..
 cd snd1987nlre
 git pull -v
 cd ..
+
+cd ambiophonic-reverberation
+git pull -v
+cd ..

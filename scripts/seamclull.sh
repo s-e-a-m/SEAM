@@ -31,6 +31,7 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-ifc2020
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre
 
+git clone --recurse-submodules -v https://github.com/s-e-a-m/ambiophonic-reverberation
 
 #pull
 
@@ -90,5 +91,9 @@ git pull -v
 cd ..
 
 cd snd1987nlre
+git pull -v
+cd ..
+
+cd ambiophonic-reverberation
 git pull -v
 cd ..
