@@ -1,21 +1,12 @@
-[submodule "References"]
-	path = References
-	url = https://github.com/s-e-a-m/References.git
-[submodule "fc1987nlre"]
-	path = fc1987nlre
-	url = https://github.com/s-e-a-m/fc1987nlre.git
-[submodule "fc1991lmml"]
-	path = fc1991lmml
-	url = https://github.com/s-e-a-m/fc1991lmml.git
-[submodule "cs1954sks2"]
-	path = cs1954sks2
-	url = https://github.com/s-e-a-m/cs1954sks2.git
-[submodule "faust-libraries"]
-	path = faust-libraries
+[submodule "src/faust-libraries"]
+	path = src/faust-libraries
 	url = https://github.com/s-e-a-m/faust-libraries.git
-[submodule "faust-code"]
-	path = faust-code
-	url = https://github.com/s-e-a-m/faust-code.git
-[submodule "Documentation/seam-lac2020"]
-	path = Documentation/seam-lac2020
-	url = https://github.com/s-e-a-m/seam-lac2020.git
+[submodule "src/fc1991lmml"]
+	path = src/fc1991lmml
+	url = https://github.com/s-e-a-m/fc1991lmml.git
+[submodule "src/fc1969lais"]
+	path = src/fc1969lais
+	url = https://github.com/s-e-a-m/fc1969lais.git
+[submodule "src/fc1987nlre"]
+	path = src/fc1987nlre
+	url = https://github.com/s-e-a-m/fc1987nlre.git
