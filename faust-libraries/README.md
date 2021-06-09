@@ -1,3 +1,0 @@
-# faust-libraries
-
-Faust Libraries

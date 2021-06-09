@@ -14,7 +14,7 @@ It is maintained by a small team.
 
 #### Giovanni Michelangelo D'Urso
 
-#### Gabriela Velitch
+#### [Gabriela Krassimirova Velitchkova](https://github.com/Velitch)
 
 #### You are welcome to contribute to the project.
 

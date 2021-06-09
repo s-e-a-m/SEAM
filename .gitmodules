@@ -7,9 +7,9 @@
 [submodule "fc1991lmml"]
 	path = fc1991lmml
 	url = https://github.com/s-e-a-m/fc1991lmml.git
-[submodule "fc1969lais"]
-	path = fc1969lais
-	url = https://github.com/s-e-a-m/fc1969lais.git
+[submodule "cs1954sks2"]
+	path = cs1954sks2
+	url = https://github.com/s-e-a-m/cs1954sks2.git
 [submodule "faust-libraries"]
 	path = faust-libraries
 	url = https://github.com/s-e-a-m/faust-libraries.git
