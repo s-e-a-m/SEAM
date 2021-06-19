@@ -33,4 +33,6 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-smc2020.git
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/ambiophonic-reverberation
+git clone --recurse-submodules -v https://github.com/s-e-a-m/ambiophonic-reverberation.git
+
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc2003dsaae2.git

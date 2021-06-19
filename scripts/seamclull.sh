@@ -25,13 +25,15 @@ git clone --recurse-submodules -v https://github.com/s-e-a-m/s-e-a-m.github.io.g
 
 git clone --recurse-submodules -v https://github.com/s-e-a-m/max1969lais.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-lac2020
+git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-lac2020.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-ifc2020
+git clone --recurse-submodules -v https://github.com/s-e-a-m/seam-ifc2020.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre
+git clone --recurse-submodules -v https://github.com/s-e-a-m/snd1987nlre.git
 
-git clone --recurse-submodules -v https://github.com/s-e-a-m/ambiophonic-reverberation
+git clone --recurse-submodules -v https://github.com/s-e-a-m/ambiophonic-reverberation.git
+
+git clone --recurse-submodules -v https://github.com/s-e-a-m/fc2003dsaae2.git
 
 #pull
 
@@ -95,5 +97,9 @@ git pull -v
 cd ..
 
 cd ambiophonic-reverberation
+git pull -v
+cd ..
+
+cd fc2003dsaae2
 git pull -v
 cd ..
